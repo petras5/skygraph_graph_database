@@ -10,7 +10,7 @@ The seminar paper details the process of building a flight search application fr
 
 * **`Skygraph_seminar.pdf`**: The full seminar paper (in Croatian), providing a detailed explanation of the project, methodology, and results.
 
-* **`cypher_queries.cypher`**: A file containing all the Cypher queries discussed and implemented in the seminar paper, ready for use with Memgraph.
+* **`skygraph.cypher`**: A file containing all the Cypher queries discussed and implemented in the seminar paper, ready for use with Memgraph.
 
 ### Getting Started
 
